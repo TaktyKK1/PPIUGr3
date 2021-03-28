@@ -1,4 +1,4 @@
 
 public class DEV2 {
-	String autor = "Micha³ Pieczka";
+	static String autor = "Micha³ Pieczka";
 }
