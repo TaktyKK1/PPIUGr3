@@ -1,0 +1,6 @@
+.metadata/
+.recommenders/
+JavaGithub/.classpath
+JavaGithub/.project
+JavaGithub/.settings/
+JavaGithub/bin/
