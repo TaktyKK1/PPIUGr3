@@ -38,4 +38,23 @@
 <entry path="C:\Users\micha\OneDrive\Pulpit\studia\semestr 4\Programowanie interfejsów baz danych\zajęcia 1\eclipse-2018-09\eclipse-2018-09\eclipse\jdk\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
+<libraryInfo home="C:\eclipse-2018-09\eclipse\jdk" version="1.8.0_66">
+<bootpath>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\resources.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\rt.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\jsse.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\jce.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\jfr.jar"/>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\eclipse-2018-09\eclipse\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 </libraryInfos>
